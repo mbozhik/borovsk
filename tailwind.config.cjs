@@ -23,9 +23,7 @@ module.exports = {
       },
     },
     screens: {
-      sm: {min: '300px', max: '768px'},
-      md: {min: '768px'},
-      lg: {min: '1024px'},
+      sm: {max: '768px'},
       xl: {min: '1280px'},
     },
     debugScreens: {
