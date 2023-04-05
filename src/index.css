@@ -3,3 +3,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.BG_PHOTO {
+  @apply h-[100svh];
+  background-image: url('/bg-photo.png');
+  background-size: cover;
+}
+
+.BG_TINT {
+  background-color: #00000080;
+  background-blend-mode: multiply;
+}
+
+.TEXT_SHADOW {
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.55);
+}

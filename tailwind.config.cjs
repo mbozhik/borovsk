@@ -8,7 +8,7 @@ module.exports = {
         custom: ['Inter', 'ui-sans-serif', 'sans-serif'],
       },
       colors: {
-        primary: '#cd13cd',
+        custom: '#F8971C',
         grey: {
           100: '#f0f0f0',
           200: '#e4e4e4',
