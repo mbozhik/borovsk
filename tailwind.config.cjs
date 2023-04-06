@@ -24,6 +24,7 @@ module.exports = {
     },
     screens: {
       sm: {max: '768px'},
+      lg: {max: '1024px'},
       xl: {min: '1280px'},
     },
     debugScreens: {
