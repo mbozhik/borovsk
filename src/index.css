@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 .BG_PHOTO {
-  @apply h-[100svh];
+  @apply h-[105svh];
   background-image: url('/bg-photo.png');
   background-size: cover;
 }
