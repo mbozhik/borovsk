@@ -19,6 +19,12 @@
   text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.55);
 }
 
+@media screen and (max-width: 1366px) {
+  .MAIN_CONTENT {
+    margin-top: 7vh;
+  }
+}
+
 @media screen and (max-width: 768px) {
   .MAIN_CONTENT {
     margin-top: clamp(10rem, 12.5vw, 13rem);
